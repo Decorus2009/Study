@@ -1,3 +1,3 @@
 # Программирование на языке C++
 
-stepik.org/course/7
+https://stepik.org/course/7
